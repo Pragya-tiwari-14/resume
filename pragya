@@ -1,0 +1,13 @@
+<section>
+  <h2>Skills</h2>
+  <ul style="list-style: none; padding-left: 0; font-size: 16px; line-height: 1.8;">
+  <li> <strong>Languages:</strong> HTML, CSS, JavaScript</li>
+  <li><strong>Frameworks & Libraries:</strong> React.js, Tailwind CSS, GSAP</li>
+  <li><strong>Tools:</strong> Git, GitHub, VS Code, Netlify</li>
+  <li> <strong>Core Skills:</strong> Responsive Design, Cross-Browser Compatibility, Clean Code, Pixel-Perfect UI</li>
+  <li> <strong>Workflow:</strong> Agile Development, Team Collaboration</li>
+  <li> <strong>UI/UX:</strong> Figma, Micro-Interactions, Accessibility Basics</li>
+</ul>
+ 
+</section>
+
